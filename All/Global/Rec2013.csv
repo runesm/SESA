@@ -1,0 +1,154 @@
+tower,tower.code,lat,long,receiver,SN,ant,bp.filter,ant.type,elements,element.orient,ant.orient,ant.slope,start.yr,start.mo,start.day,start.hr,start.min,stop.yr,stop.mo,stop.day,stop.hr,stop.min,proj
+evangeline_beach,EVANG,45.14,-64.31,SG,NA,1,no,yagi,9,H,325,90,2013,NA,NA,NA,NA,2013,9,23,18,0,hamilton
+windsor,WNDSR,45,-64.15,SG,NA,1,no,yagi,9,H,NA,90,2013,NA,NA,NA,NA,2013,9,23,19,0,hamilton
+windsor,WNDSR,45,-64.15,SG,NA,2,no,yagi,9,H,NA,90,2013,NA,NA,NA,NA,2013,9,23,19,0,hamilton
+porters_point,PORTP,45.14,-64.38,SG,NA,1,no,yagi,9,H,335,90,2013,NA,NA,NA,NA,2013,9,23,19,0,hamilton
+fort_belcher,FTBLC,45.36,-63.4,SG,NA,6,no,yagi,9,H,192,90,2013,NA,NA,NA,NA,2013,9,24,13,55,hamilton
+fort_belcher,FTBLC,45.36,-63.4,SG,NA,5,no,yagi,9,H,312,90,2013,NA,NA,NA,NA,2013,9,24,13,55,hamilton
+avonport,AVPRT,45.11,-64.23,SG,NA,2,no,yagi,9,H,NA,90,2013,NA,NA,NA,NA,2013,9,25,14,30,hamilton
+avonport,AVPRT,45.11,-64.23,DL,NA,1,no,yagi,9,H,NA,90,2013,9,25,15,20,2013,9,25,14,30,hamilton
+maitland,MAIT,45.33,-63.54,SG,NA,5,no,yagi,9,H,40,90,2013,NA,NA,NA,NA,2013,NA,NA,NA,NA,hamilton
+maitland,MAIT,45.33,-63.54,SG,NA,6,no,yagi,9,H,320,90,2013,NA,NA,NA,NA,2013,NA,NA,NA,NA,hamilton
+Amherst,AMHRST,45.79,-64.28,NA,NA,NA,NA,NA,NA,NA,NA,90,2013,NA,NA,NA,NA,2013,NA,NA,NA,NA,hamilton
+NA,HPWLF,45.82,-64.58,NA,NA,NA,NA,NA,NA,NA,NA,90,2013,NA,NA,NA,NA,2013,NA,NA,NA,NA,hamilton
+NA,HPWLR,45.83,-64.57,NA,NA,NA,NA,NA,NA,NA,NA,90,2013,NA,NA,NA,NA,2013,NA,NA,NA,NA,hamilton
+joggins,JOGG,45.69,-64.45,NA,NA,NA,NA,NA,NA,NA,NA,90,2013,NA,NA,NA,NA,2013,NA,NA,NA,NA,hamilton
+johnson's mills,JOHNS,45.8,-64.49,NA,NA,NA,NA,NA,NA,NA,NA,90,2013,NA,NA,NA,NA,2013,NA,NA,NA,NA,hamilton
+Seal Cove,SECO,44.5431,-67.7528,BD,NA,2,no,yagi,9,H,256,90,2013,8,6,1500,26,2013,NA,NA,NA,NA,holberton_receiver_configuration
+Pineo Point,PIPO,44.5645,-67.8066,BD,NA,1,no,yagi,9,H,191,90,2013,8,6,1700,31,2013,NA,NA,NA,NA,holberton_receiver_configuration
+PKR_lot1,PKR_lot1,42.7903,-70.8087,SG,13337,1,NA,yagi,9,H,230,90,2013,August,1,10,0,2013,October,NA,NA,NA,pau
+PKR_lot1,PKR_lot1,42.7903,-70.8087,SG,1335B,2,NA,yagi,9,H,345,90,2013,August,1,10,0,2013,October,NA,NA,NA,pau
+PKR_lot1,PKR_lot1,42.7903,-70.8087,SG,13338,3,NA,yagi,9,H,150,90,2013,August,1,10,0,2013,October,NA,NA,NA,pau
+PKR Stage Island,PKR_stage,42.7108,-70.7799,SG,13355,1,NA,yagi,9,H,70,90,2013,August,1,14,0,2013,October,NA,NA,NA,pau
+PKR Stage Island,PKR_stage,42.7108,-70.7799,SG,13361,2,NA,yagi,9,H,215,90,2013,August,1,14,0,2013,October,NA,NA,NA,pau
+PKR Stage Island,PKR_stage,42.7108,-70.7799,SG,13357,3,NA,yagi,9,H,350,90,2013,August,1,14,0,2013,October,NA,NA,NA,pau
+PKR Nelson's Island,PKR_Nelsons,42.7467,-70.8247,SG,,1,NA,yagi,9,H,270,90,2013,August,2,14,30,2013,October,NA,NA,NA,pau
+PKR Nelson's Island,PKR_Nelsons,42.7467,-70.8247,SG,13398,2,NA,yagi,9,H,15,90,2013,August,2,14,30,2013,October,NA,NA,NA,pau
+PKR Nelson's Island,PKR_Nelsons,42.7467,-70.8247,SG,13270,5,NA,yagi,9,H,150,90,2013,August,2,14,30,2013,October,NA,NA,NA,pau
+PKR Headquarters,PKR_HQ,42.7985,-70.8492,SG,13326,1,NA,yagi,9,H,36,90,2013,August,2,16,0,2013,October,NA,NA,NA,pau
+PKR Headquarters,PKR_HQ,42.7985,-70.8492,SG,13334,2,NA,yagi,9,H,156,90,2013,August,2,16,0,2013,October,NA,NA,NA,pau
+Long Island,LONGI,43.688056,-70.153199,SG,13952,1,N,yagi,5,H,110,90,2013,8,29,23,NA,NA,NA,NA,NA,NA,peterson
+Long Island,LONGI,43.688056,-70.153199,SG,13951,2,N,yagi,5,H,290,90,2013,8,29,23,NA,NA,NA,NA,NA,NA,peterson
+Great Duck Island,GDI,44.15,-68.25,SG,BB BLK,1,no,yagi,9,H,45,90,2013,8,4,NA,NA,2013,NA,NA,NA,NA,smetzer
+Great Duck Island,GDI,44.15,-68.25,SG,BB BLK,2,no,yagi,9,H,315,90,2013,8,4,NA,NA,2013,NA,NA,NA,NA,smetzer
+Great Duck Island,GDI,44.15,-68.25,SG,BB BLK,4,no,yagi,9,H,225,90,2013,8,4,NA,NA,2013,NA,NA,NA,NA,smetzer
+Great Duck Island,GDI,44.15,-68.25,SG,BB BLK,5,no,yagi,9,H,135,90,2013,8,4,NA,NA,2013,NA,NA,NA,NA,smetzer
+Mount Desert Rock,MDR,43.97,-68.13,SG,BB BLK,NA,no,yagi,9,H,225,90,2013,8,30,NA,NA,2013,NA,NA,NA,NA,smetzer
+Mount Desert Rock,MDR,43.97,-68.13,SG,BB BLK,NA,no,yagi,9,H,135,90,2013,8,30,NA,NA,2013,NA,NA,NA,NA,smetzer
+Mount Desert Rock,MDR,43.97,-68.13,SG,BB BLK,NA,no,yagi,9,H,45,90,2013,8,30,NA,NA,2013,NA,NA,NA,NA,smetzer
+Petit Manan Point,PMP,44.41,-67.91,SG,BB BLK,2,no,yagi,9,H,135,90,2013,9,13,NA,NA,2013,NA,NA,NA,NA,smetzer
+Petit Manan Point,PMP,44.41,-67.91,SG,BB BLK,3,no,yagi,9,H,315,90,2013,9,13,NA,NA,2013,NA,NA,NA,NA,smetzer
+Petit Manan Point,PMP,44.41,-67.91,SG,BB BLK,4,no,yagi,9,H,45,90,2013,9,13,NA,NA,2013,NA,NA,NA,NA,smetzer
+Blue Hill,BHILL,44.43,-68.59,SG,BB BLK,1,no,yagi,9,H,270,90,2013,8,13,NA,NA,2013,NA,NA,NA,NA,smetzer
+Blue Hill,BHILL,44.43,-68.59,SG,BB BLK,4,no,yagi,9,H,135,90,2013,8,13,NA,NA,2013,NA,NA,NA,NA,smetzer
+Blue Hill,BHILL,44.43,-68.59,SG,BB BLK,5,no,yagi,9,H,180,90,2013,8,13,NA,NA,2013,NA,NA,NA,NA,smetzer
+Rachel Carson,RCARS,43.34,-70.55,SG,BB BLK,2,no,yagi,9,H,148,90,2013,8,15,NA,NA,2013,NA,NA,NA,NA,smetzer
+Rachel Carson,RCARS,43.34,-70.55,SG,BB BLK,4,no,yagi,9,H,230,90,2013,8,15,NA,NA,2013,NA,NA,NA,NA,smetzer
+Rachel Carson,RCARS,43.34,-70.55,SG,BB BLK,5,no,yagi,9,H,104,90,2013,8,15,NA,NA,2013,NA,NA,NA,NA,smetzer
+Ship Island,SHIP,44.23,-68.44,SG,BB BLK,1,no,yagi,9,H,315,90,2013,8,20,NA,NA,2013,NA,NA,NA,NA,smetzer
+Ship Island,SHIP,44.23,-68.44,SG,BB BLK,2,no,yagi,9,H,135,90,2013,8,20,NA,NA,2013,NA,NA,NA,NA,smetzer
+Ship Island,SHIP,44.23,-68.44,SG,BB BLK,3,no,yagi,9,H,225,90,2013,8,20,NA,NA,2013,NA,NA,NA,NA,smetzer
+Ship Island,SHIP,44.23,-68.44,SG,BB BLK,4,no,yagi,9,H,45,90,2013,8,20,NA,NA,2013,9,14,8,NA,smetzer
+Metinic,METIN,43.9,-69.12,SG,BB,1,no,yagi,9,H,45,90,2013,8,23,NA,NA,2013,NA,NA,NA,NA,smetzer
+Metinic,METIN,43.9,-69.12,SG,BB,5,no,yagi,9,H,135,90,2013,8,23,NA,NA,2013,NA,NA,NA,NA,smetzer
+Metinic,METIN,43.9,-69.12,SG,BB,6,no,yagi,9,H,315,90,2013,8,23,NA,NA,2013,NA,NA,NA,NA,smetzer
+SERC_weather,SERC,44.34,-68.06,SG,BB,1,yes,yagi,9,H,180,90,2013,9,3,NA,NA,2013,NA,NA,NA,NA,smetzer
+SERC_weather,SERC,44.34,-68.06,SG,BB,2,yes,yagi,9,H,135,90,2013,9,3,NA,NA,2013,NA,NA,NA,NA,smetzer
+SERC_weather,SERC,44.34,-68.06,SG,BB,5,no,yagi,9,H,315,90,2013,9,3,NA,NA,2013,NA,NA,NA,NA,smetzer
+sable_island_west,SIWL,43.93197199,-60.02285477,SRX600,6312,1,NA,yagi,9,V,0,90,2013,3,19,21,59,2013,5,22,20,0,taylor
+sable_island_west,SIWL,43.93197199,-60.02285477,SRX600,6312,2,NA,yagi,9,V,90,90,2013,3,19,21,59,2013,5,22,20,0,taylor
+sable_island_west,SIWL,43.93197199,-60.02285477,SRX600,6312,3,NA,yagi,9,V,180,90,2013,3,19,21,59,2013,5,22,20,0,taylor
+sable_island_west,SIWL,43.93197199,-60.02285477,SRX600,6312,4,NA,yagi,9,V,270,90,2013,3,19,21,59,2013,5,22,20,0,taylor
+sable_island_east,SIEL,43.96011285,-59.79069286,SRX600,tbd,1,NA,yagi,9,V,0,90,2013,3,20,15,30,2013,5,27,12,0,taylor
+sable_island_east,SIEL,43.96011285,-59.79069286,SRX600,tbd,2,NA,yagi,9,V,90,90,2013,3,20,15,30,2013,5,27,12,0,taylor
+sable_island_east,SIEL,43.96011285,-59.79069286,SRX600,tbd,3,NA,yagi,9,V,180,90,2013,3,20,15,30,2013,5,27,12,0,taylor
+sable_island_east,SIEL,43.96011285,-59.79069286,SRX600,tbd,4,NA,yagi,9,V,270,90,2013,3,20,15,30,2013,5,27,12,0,taylor
+sable_island_west,SBL-WL2,43.93197199,-60.02285477,SG,NA,1,yes,yagi,9,H,30,90,2013,5,25,20,51,NA,NA,NA,NA,NA,taylor
+sable_island_west,SBL-WL2,43.93197199,-60.02285477,SG,NA,2,yes,yagi,9,H,150,90,2013,5,25,20,51,NA,NA,NA,NA,NA,taylor
+sable_island_west,SBL-WL2,43.93197199,-60.02285477,SG,NA,5,yes,yagi,9,H,270,90,2013,5,25,20,51,NA,NA,NA,NA,NA,taylor
+sable_island_west,SBL-WL1,43.93197199,-60.02285477,SG,NA,1,yes,yagi,9,H,330,90,2013,5,30,20,0,NA,NA,NA,NA,NA,taylor
+sable_island_west,SBL-WL1,43.93197199,-60.02285477,SG,NA,2,yes,yagi,9,H,210,90,2013,5,30,20,0,NA,NA,NA,NA,NA,taylor
+sable_island_west,SBL-WL1,43.93197199,-60.02285477,SG,NA,5,yes,yagi,9,H,90,90,2013,5,30,20,0,NA,NA,NA,NA,NA,taylor
+sable_island_west,SBL-WL1,43.93197199,-60.02285477,SG,NA,6,no,omni,1,NA,NA,0,2013,5,30,20,0,NA,NA,NA,NA,NA,taylor
+sable_island_east,SBL-EL,43.96011285,-59.79069286,SG,NA,1,no,yagi,9,H,90,90,2013,5,27,14,30,NA,NA,NA,NA,NA,taylor
+sable_island_east,SBL-EL,43.96011285,-59.79069286,SG,NA,2,no,yagi,9,H,0,90,2013,5,27,14,30,NA,NA,NA,NA,NA,taylor
+sable_island_east,SBL-EL,43.96011285,-59.79069286,SG,NA,5,no,yagi,9,H,180,90,2013,5,27,14,30,NA,NA,NA,NA,NA,taylor
+sable_island_east,SBL-EL,43.96011285,-59.79069286,SG,NA,6,no,yagi,9,H,270,90,2013,5,31,12,5,NA,NA,NA,NA,NA,taylor
+sable_island_east_colony,SBL-EC,43.96027,-59.78289,SG,NA,1,no,omni,1,NA,NA,0,2013,5,31,22,5,2013,8,19,13,0,taylor
+sable_island_main_station,SBL-MS,43.933582,-60.000708,SG,NA,2,yes,omni,1,NA,NA,0,2013,6,9,19,51,2013,8,15,NA,NA,taylor
+sable_island_east_spit,SBL-ES,44.01889,-59.69473,SG,NA,1,no,omni,1,NA,NA,0,2013,5,27,18,30,2013,6,14,18,40,taylor
+sable_island_east_spit,SBL-ES,44.01889,-59.69473,SG,NA,1,no,yagi,1,H,58,90,2013,6,14,18,45,NA,NA,NA,NA,NA,taylor
+sable_island_west_spit,SBL-WS,43.97,-60.14,SG,NA,4,no,yagi,5,H,318,90,2013,6,1,19,30,2013,8,15,16,0,taylor
+sable_island_west_spit,SBL-WS,43.97,-60.14,SG,NA,3,no,yagi,5,H,138,90,2013,6,12,16,20,2013,8,15,16,0,taylor
+sable_island_west_spit,SBL-WS,43.97,-60.14,SG,NA,3,no,yagi,5,H,278,90,2013,8,15,16,0,NA,NA,NA,NA,NA,taylor
+sable_island_west_spit,SBL-WS,43.97,-60.14,SG,NA,4,no,yagi,5,H,318,90,2013,8,15,16,0,NA,NA,NA,NA,NA,taylor
+sable_island_west_spit,SBL-WS,43.97,-60.14,SG,NA,2,no,yagi,5,H,358,90,2013,8,15,16,0,NA,NA,NA,NA,NA,taylor
+country_island,CI,45.09996429,-61.54229428,SG,NA,1,no,yagi,9,H,82,90,2013,6,13,12,0,NA,NA,NA,NA,NA,taylor
+country_island,CI,45.09996429,-61.54229428,SG,NA,5,no,yagi,9,H,168,90,2013,6,13,12,0,NA,NA,NA,NA,NA,taylor
+country_island,CI,45.09996429,-61.54229428,SG,NA,2,no,yagi,9,H,262,90,2013,6,13,12,0,NA,NA,NA,NA,NA,taylor
+country_island,CI,45.09996429,-61.54229428,SG,NA,6,no,yagi,9,H,348,90,2013,6,13,12,0,NA,NA,NA,NA,NA,taylor
+conrads_beach,CONR,44.64854,-63.38497,SG,NA,2,no,yagi,9,H,210,90,2013,4,10,NA,NA,2013,6,23,20,16,taylor
+conrads_beach,CONR,44.64854,-63.38497,SG,NA,3,no,yagi,9,H,128,90,2013,4,10,NA,NA,2013,6,23,20,16,taylor
+conrads_beach,CONR,44.64854,-63.38497,SG,NA,4,no,yagi,9,H,70,90,2013,4,10,NA,NA,2013,6,23,20,16,taylor
+martinique_beach,MART,44.68777,-63.1457,SG,NA,1,no,yagi,9,H,214,90,2013,4,10,NA,NA,NA,NA,NA,NA,NA,taylor
+martinique_beach,MART,44.68777,-63.1457,SG,NA,2,no,yagi,9,H,88,90,2013,4,10,NA,NA,2013,9,30,18,40,taylor
+martinique_beach,MART,44.68777,-63.1457,SG,NA,4,no,yagi,9,H,88,90,2013,9,30,18,40,NA,NA,NA,NA,NA,taylor
+clam_harbour,CHRB,44.72801,-62.92378,SG,NA,2,no,yagi,9,H,188,90,2013,4,10,NA,NA,NA,NA,NA,NA,NA,taylor
+clam_harbour,CHRB,44.72801,-62.92378,SG,NA,3,no,yagi,9,H,290,90,2013,4,10,NA,NA,NA,NA,NA,NA,NA,taylor
+taylor_head,TAYL,44.80572,-62.55985,SG,NA,2,no,yagi,9,H,240,90,2013,4,9,NA,NA,NA,NA,NA,NA,NA,taylor
+taylor_head,TAYL,44.80572,-62.55985,SG,NA,3,no,yagi,9,H,60,90,2013,4,9,NA,NA,NA,NA,NA,NA,NA,taylor
+west_quoddy,WQDY,44.91418,-62.34769,SG,NA,2,no,yagi,9,H,180,90,2013,4,9,NA,NA,2013,6,22,14,0,taylor
+west_quoddy,WQDY,44.91418,-62.34769,SG,NA,3,no,yagi,9,H,359,90,2013,4,9,NA,NA,2013,6,22,14,0,taylor
+west_quoddy,WQDY,44.91398,-62.34763,SG,NA,2,no,yagi,9,H,360,90,2013,7,4,16,9,NA,NA,NA,NA,NA,taylor
+west_quoddy,WQDY,44.91398,-62.34763,SG,NA,3,no,yagi,9,H,180,90,2013,7,4,16,9,NA,NA,NA,NA,NA,taylor
+sonora,SONO,45.0546,-61.89586,SG,NA,2,no,yagi,9,H,154,90,2013,4,9,NA,NA,NA,NA,NA,NA,NA,taylor
+sonora,SONO,45.0546,-61.89586,SG,NA,3,no,yagi,9,H,357,90,2013,4,9,NA,NA,NA,NA,NA,NA,NA,taylor
+port_bickerton,PTBI,45.10744,-61.72179,SG,NA,2,no,yagi,9,H,196,90,2013,4,9,NA,NA,2013,6,22,19,20,taylor
+port_bickerton,PTBI,45.10744,-61.72179,SG,NA,3,no,yagi,9,H,2,90,2013,4,9,NA,NA,2013,6,22,19,20,taylor
+port_bickerton,PTBI,45.10744,-61.72179,SG,NA,2,no,yagi,9,H,166,90,2013,6,22,19,20,2013,8,2,14,30,taylor
+port_bickerton,PTBI,45.10744,-61.72179,SG,NA,3,no,yagi,9,H,266,90,2013,6,22,19,20,2013,8,2,14,30,taylor
+new_harbour,NHRB,45.16746,-61.45481,SG,NA,2,no,yagi,9,H,162,90,2013,4,9,NA,NA,2013,6,23,13,20,taylor
+new_harbour,NHRB,45.16746,-61.45481,SG,NA,3,no,yagi,9,H,342,90,2013,4,9,NA,NA,2013,6,23,13,20,taylor
+new_harbour,NHRB,45.16746,-61.45481,SG,NA,2,no,yagi,9,H,232,90,2013,6,23,13,28,2013,8,2,NA,NA,taylor
+new_harbour,NHRB,45.16746,-61.45481,SG,NA,3,no,yagi,9,H,140,90,2013,6,23,13,28,2013,8,2,NA,NA,taylor
+new_harbour,NHRB,45.16746,-61.45481,SG,NA,2,NA,yagi,9,H,8,90,2013,8,2,NA,NA,NA,NA,NA,NA,NA,taylor
+new_harbour,NHRB,45.16746,-61.45481,SG,NA,3,NA,yagi,9,H,188,90,2013,8,2,NA,NA,NA,NA,NA,NA,NA,taylor
+port_felix,PTFE,45.24909,-61.2233,SG,NA,2,no,yagi,9,H,151,90,2013,4,9,NA,NA,2013,5,8,12,2,taylor
+port_felix,PTFE,45.24909,-61.2233,SG,NA,3,no,yagi,9,H,319,90,2013,4,9,NA,NA,2013,5,8,12,2,taylor
+drum_head,DRUM,45.15347,-61.61842,SG,NA,2,no,yagi,9,H,258,90,2013,5,8,17,0,2013,8,2,18,0,taylor
+drum_head,DRUM,45.15347,-61.61842,SG,NA,3,no,yagi,9,H,168,90,2013,5,8,17,0,2013,8,2,18,0,taylor
+canso,CANS,45.31954,-60.96818,SG,NA,2,no,yagi,9,H,340,90,2013,4,9,NA,NA,2013,4,23,NA,NA,taylor
+canso,CANS,45.31954,-60.96818,SG,NA,3,no,yagi,9,H,201,90,2013,4,9,NA,NA,2013,4,23,NA,NA,taylor
+canso,CANS,45.31954,-60.96818,SG,NA,2,no,yagi,9,H,340,90,2013,4,25,12,20,2013,6,22,22,40,taylor
+canso,CANS,45.31954,-60.96818,SG,NA,3,no,yagi,9,H,201,90,2013,4,25,12,20,2013,6,22,22,40,taylor
+canso,CANS,45.31954,-60.96818,DL,NA,1,no,yagi,9,H,310,90,2013,8,5,21,15,NA,NA,NA,NA,NA,taylor
+canso,CANS,45.31954,-60.96818,DL,NA,2,no,yagi,9,H,194,90,2013,8,5,21,15,NA,NA,NA,NA,NA,taylor
+prospect,PROS,44.47,-63.79,SG,NA,1,no,yagi,9,H,200,90,2013,8,10,15,0,2013,9,9,12,0,taylor
+prospect,PROS,44.47,-63.79,SG,NA,2,no,yagi,9,H,300,90,2013,8,10,15,0,2013,9,9,12,0,taylor
+prospect,PROS,44.47,-63.79,SG,NA,1,no,yagi,9,H,280,90,2013,9,9,13,30,NA,NA,NA,NA,NA,taylor
+prospect,PROS,44.47,-63.79,SG,NA,2,no,yagi,9,H,180,90,2013,9,9,13,30,NA,NA,NA,NA,NA,taylor
+kingsburgh,KING,44.27,-64.26,SG,NA,5,no,yagi,9,H,212,90,2013,8,3,15,0,NA,NA,NA,NA,NA,taylor
+kingsburgh,KING,44.27,-64.26,SG,NA,6,no,yagi,9,H,32,90,2013,8,3,15,0,NA,NA,NA,NA,NA,taylor
+berlin,BERL,44.07,-64.61,SG,NA,3,no,yagi,9,H,350,90,2013,8,10,18,20,NA,NA,NA,NA,NA,taylor
+berlin,BERL,44.07,-64.61,SG,NA,2,no,yagi,9,H,160,90,2013,8,10,18,20,NA,NA,NA,NA,NA,taylor
+jordan,JORD,43.69,-65.24,SG,NA,3,no,yagi,9,H,154,90,2013,8,4,17,0,NA,NA,NA,NA,NA,taylor
+jordan,JORD,43.69,-65.24,SG,NA,2,no,yagi,9,H,8,90,2013,8,4,17,0,NA,NA,NA,NA,NA,taylor
+bp_lighthouse_1,BPLH-1,43.46,-65.74,SG,NA,1,no,yagi,9,H,270,90,2013,9,28,14,20,2013,9,29,13,20,taylor
+bp_lighthouse_1,BPLH-1,43.46,-65.74,SG,NA,2,no,yagi,9,H,198,90,2013,9,28,14,20,2013,9,29,13,20,taylor
+bp_lighthouse_1,BPLH-1,43.46,-65.74,SG,NA,1,no,yagi,9,H,144,90,2013,9,29,13,21,NA,NA,NA,NA,NA,taylor
+bp_lighthouse_1,BPLH-1,43.46,-65.74,SG,NA,2,no,yagi,9,H,20,90,2013,9,29,13,21,NA,NA,NA,NA,NA,taylor
+keji,KEJI,43.82927239,-64.84089395,SG,NA,1,no,yagi,9,H,78,90,2013,8,4,12,58,NA,NA,NA,NA,NA,taylor
+keji,KEJI,43.82927239,-64.84089395,SG,NA,2,no,yagi,9,H,258,90,2013,8,4,12,58,NA,NA,NA,NA,NA,taylor
+Petit Manan Island,PMI,44.36755,-67.864992,BD,NA,1,NA,yagi,9,H,115,90,2013,6,13,NA,NA,2013,NA,NA,NA,NA,welch
+Petit Manan Island,PMI,44.36755,-67.864992,BD,NA,2,NA,yagi,9,H,40,90,2013,6,13,NA,NA,2013,NA,NA,NA,NA,welch
+Petit Manan Island,PMI,44.36755,-67.864992,BD,NA,5,NA,yagi,9,H,210,90,2013,6,13,NA,NA,2013,NA,NA,NA,NA,welch
+Petit Manan Island,PMI,44.36755,-67.864992,BD,NA,6,NA,yagi,9,H,162,90,2013,6,13,NA,NA,2013,NA,NA,NA,NA,welch
+Nash Island,NASH,44.464786,-67.746542,BD,NA,1,NA,yagi,9,H,66,90,2013,7,1,NA,NA,2013,NA,NA,NA,NA,welch
+Nash Island,NASH,44.464786,-67.746542,BD,NA,3,NA,yagi,9,H,194,90,2013,7,1,NA,NA,2013,NA,NA,NA,NA,welch
+Nash Island,NASH,44.464786,-67.746542,BD,NA,2,NA,yagi,9,H,336,90,2013,7,1,NA,NA,2013,NA,NA,NA,NA,welch
+Jordan's Delight,JD,44.442561,-67.824258,BD,NA,1,NA,yagi,9,H,200,90,2013,6,19,NA,NA,2013,8,21,0,0,welch
+Jordan's Delight,JD,44.442561,-67.824258,BD,NA,2,NA,yagi,9,H,110,90,2013,6,19,NA,NA,2013,8,21,0,0,welch
+Jordan's Delight,JD,44.442561,-67.824258,BD,NA,1,NA,yagi,9,H,275,90,2013,8,21,0,0,2013,NA,NA,NA,NA,welch
+Jordan's Delight,JD,44.442561,-67.824258,BD,NA,2,NA,yagi,9,H,5,90,2013,8,21,0,0,2013,NA,NA,NA,NA,welch
+Petit Manan Point,PMP,44.401847,-67.896611,BD,NA,1,NA,yagi,9,H,190,90,2013,7,1,NA,NA,2013,NA,NA,NA,NA,welch
+Petit Manan Point,PMP,44.401847,-67.896611,BD,NA,5,NA,yagi,9,H,85,90,2013,7,1,NA,NA,2013,NA,NA,NA,NA,welch
